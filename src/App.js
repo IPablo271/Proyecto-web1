@@ -1,6 +1,8 @@
-import React from 'react';
+import React from 'react'
 import './style.css'
-import img from './imagenes/logo.png';
+import img from './imagenes/logo.png'
 
-const App = () => <img src={img}></img>
+function App() {
+  return <img src={img} alt="logo" />
+}
 export default App
