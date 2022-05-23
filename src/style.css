@@ -269,6 +269,8 @@ ul{
     padding: 20px 0;
 }
 .div_footer{
+    position: absolute;
+    left: 10%;
     margin-bottom: 20px;
     display: flex;
     align-items: center;
@@ -290,4 +292,12 @@ ul{
 .footer li{
     margin-right: 30px;
     margin-bottom: 20px;
+}
+.ulf{
+    position: absolute;
+    left: 50%;
+}
+.p_globo{
+    position: relative;
+    left: 10%;
 }
