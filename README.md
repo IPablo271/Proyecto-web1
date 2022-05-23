@@ -13,7 +13,7 @@ tales como CSS, HTML y React, pero con un enfoque primordial a css.
 
 -React
 -HTML
-=CSS
+-CSS
 -Babel
 -WebPack
 -Eslint
